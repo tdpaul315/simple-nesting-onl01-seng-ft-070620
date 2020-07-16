@@ -16,8 +16,8 @@ def hopper
         }
      }
 
-programmer_hash["grace_hopper"][:known_for]
-programmer_hash["grace_hopper"][:languages]
+programmer_hash[:grace_hopper][:known_for]
+programmer_hash[:grace_hopper][:languages]
 
 return programmer_hash
 end
